@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Aksaray Korsan Taksi | Kapadokya Havalimanı, Tuz Gölü</title>
+  <link href="https://aksaraykorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://aksaraykorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://aksaraykorsantaksi.github.io/</id>
+  <updated>2026-11-18T20:21:04.251Z</updated>
+  <author><name>Aksaray Korsan Taksi</name></author>
+  <entry>
+    <title>Aksaray Korsan Taksi | Kapadokya Havalimanı, Tuz Gölü</title>
+    <link href="https://aksaraykorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://aksaraykorsantaksi.github.io/</id>
+    <updated>2026-11-18T20:21:04.251Z</updated>
+    <summary>Aksaray korsan taksi hattı: Nevşehir Kapadokya Havalimanı merkezden 78 km, Ihlara Vadisi ve Güzelyurt, Sultanhanı, Tuz Gölü, Eskil ve Ortaköy yolu. 7/24.</summary>
+  </entry>
+</feed>
